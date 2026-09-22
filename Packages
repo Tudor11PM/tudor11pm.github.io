@@ -8,7 +8,7 @@ Maintainer: Tudor Stefan
 Author: Tudor Stefan
 Section: Tweaks
 Filename: debs/com.tudor.clockplus_1.0.0-11+debug_iphoneos-arm64.deb
-Size: 42000
+Size: 41604
 
 Package: com.tudor.clockplus
 Name: ClockPlus
@@ -20,7 +20,7 @@ Maintainer: Tudor Stefan
 Author: Tudor Stefan
 Section: Tweaks
 Filename: debs/com.tudor.clockplus_1.0.0-12+debug_iphoneos-arm.deb
-Size: 42000
+Size: 41486
 
 Package: com.tudor.hellotweak
 Name: HelloTweak
