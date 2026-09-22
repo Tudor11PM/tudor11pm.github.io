@@ -1,0 +1,59 @@
+Package: com.tudor.clockplus
+Name: ClockPlus
+Version: 1.0.0-11+debug
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate, preferenceloader
+Description: an enhanced way to customise your lock screen
+Maintainer: Tudor Stefan
+Author: Tudor Stefan
+Section: Tweaks
+Filename: debs/com.tudor.clockplus_1.0.0-11+debug_iphoneos-arm64.deb
+Size: 42000
+
+Package: com.tudor.clockplus
+Name: ClockPlus
+Version: 1.0.0-12+debug
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Description: an enhanced way to customise your lock screen
+Maintainer: Tudor Stefan
+Author: Tudor Stefan
+Section: Tweaks
+Filename: debs/com.tudor.clockplus_1.0.0-12+debug_iphoneos-arm.deb
+Size: 42000
+
+Package: com.tudor.hellotweak
+Name: HelloTweak
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: My first Tweak :D
+Maintainer: Tudor Stefan
+Author: Tudor Stefan
+Section: Tweaks
+Filename: debs/com.tudor.hellotweak_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5718
+
+Package: com.tudor.clocktweak
+Name: ClockTweak
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: An updated time tweak
+Maintainer: Tudor Stefan
+Author: Tudor Stefan
+Section: Tweaks
+Filename: debs/com.tudor.clocktweak_0.0.1-2+debug_iphoneos-arm.deb
+Size: 6394
+
+Package: com.tudor.clocktweak
+Name: ClockTweak
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Description: An updated time tweak
+Maintainer: Tudor Stefan
+Author: Tudor Stefan
+Section: Tweaks
+Filename: debs/com.tudor.clocktweak_0.0.1-3+debug_iphoneos-arm64.deb
+Size: 6476
