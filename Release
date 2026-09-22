@@ -1,0 +1,22 @@
+Origin: Tudor 69
+Label: Tudor 69
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Tudor 69 Repo EOF
+git add Release
+git commit -m "Add Release file"
+git push
+cd ~/TudorRepo
+
+cat > Release << 'EOF'
+Origin: Tudor Repo
+Label: Tudor Repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Official Tudor repository
