@@ -1,26 +1,26 @@
 Package: com.tudor.clockplus
 Name: ClockPlus
-Version: 1.0.0-11+debug
+Version: 1.0.0-1+debug
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, preferenceloader
 Description: an enhanced way to customise your lock screen
 Maintainer: Tudor Stefan
 Author: Tudor Stefan
 Section: Tweaks
-Filename: debs/com.tudor.clockplus_1.0.0-11+debug_iphoneos-arm64.deb
-Size: 41604
+Filename: debs/com.tudor.clockplus_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 269090
 
 Package: com.tudor.clockplus
 Name: ClockPlus
-Version: 1.0.0-12+debug
+Version: 1.0.0-2+debug
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, preferenceloader
 Description: an enhanced way to customise your lock screen
 Maintainer: Tudor Stefan
 Author: Tudor Stefan
 Section: Tweaks
-Filename: debs/com.tudor.clockplus_1.0.0-12+debug_iphoneos-arm.deb
-Size: 41486
+Filename: debs/com.tudor.clockplus_1.0.0-2+debug_iphoneos-arm.deb
+Size: 268952
 
 Package: com.tudor.hellotweak
 Name: HelloTweak
